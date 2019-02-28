@@ -1,2 +1,7 @@
 pandas
 numpy
+nltk
+re
+subprocess
+keras
+tensorflow
